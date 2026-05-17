@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
+      "repo": "https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150",
+      "branch": "sixteen-qpr2",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -36,8 +36,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
+      "repo": "https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150",
+      "branch": "sixteen-qpr2",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -70,8 +70,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
+      "repo": "https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150",
+      "branch": "sixteen-qpr2",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -104,8 +104,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
+      "repo": "https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150",
+      "branch": "sixteen-qpr2",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
@@ -138,8 +138,8 @@
   {
     "kernelSource": {
       "name": "VantomKernel",
-      "repo": "https://github.com/devnoname120/kernel_xiaomi_sm6150",
-      "branch": "fifteen",
+      "repo": "https://github.com/PixelOS-Devices/android_kernel_xiaomi_sm6150",
+      "branch": "sixteen-qpr2",
       "device": "toco",
       "defconfig": "toco_defconfig"
     },
